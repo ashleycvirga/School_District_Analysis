@@ -29,6 +29,10 @@ The school board was notified that the reading and math grades for Thomas High S
   - Updated School Summary
   
   ![Updated_Summary_Stats.png](https://github.com/ashleycvirga/School_District_Analysis/blob/66098b866d201f14665b1c82aa5e1785e3c7fc0e/Resources/Updated_Summary_Stats.png)
+  
+  - Thomas High School Summary with dishonest data
+  
+  ![THS_OG_summary.png](https://github.com/ashleycvirga/School_District_Analysis/blob/838ab7f9faec4d17535df4864e49d295f6415463/Resources/THS_OG_summary.png)
 
 #### Differences Observed
 * The percentage of THS students passing math increased from 66.9% to 93.2% (+26.3% change)
@@ -52,14 +56,17 @@ The school board was notified that the reading and math grades for Thomas High S
   - Math and reading scores by grade
   
     * Original Average Math & Reading Scores by Grade
-    ![]()
-    ![]()
+    
+    ![OG_math_by_grade.png](https://github.com/ashleycvirga/School_District_Analysis/blob/838ab7f9faec4d17535df4864e49d295f6415463/Resources/OG_math_by_grade.png)
+    ![OG_reading_by_grade.png](https://github.com/ashleycvirga/School_District_Analysis/blob/838ab7f9faec4d17535df4864e49d295f6415463/Resources/OG_reading_by_grade.png)
     
     * Updated Average Math & Reading Scores by Grade
     
     ![avg_math_scores_by_grade.png](https://github.com/ashleycvirga/School_District_Analysis/blob/f31e1817dba4e5106b08496f57ab285f6c5edddc/Resources/avg_math_scores_by_grade.png)
     ![avg_reading_scores_by_grade.png](https://github.com/ashleycvirga/School_District_Analysis/blob/f31e1817dba4e5106b08496f57ab285f6c5edddc/Resources/avg_reading_scores_by_grade.png)
 
+    * Average Math & Reading Scores by grade were not affected by removing dishonest data --Albeit the THS 9th grade score now replaced by a "NaN" value.
+   
   - Scores by school spending
     * Original Scores by school spending
     
@@ -68,7 +75,9 @@ The school board was notified that the reading and math grades for Thomas High S
     * Updated Scores by school spending
     
     ![spending_summary.png](https://github.com/ashleycvirga/School_District_Analysis/blob/f31e1817dba4e5106b08496f57ab285f6c5edddc/Resources/spending_summary.png)
-   
+    
+    * Scores by school spending remains unchanged.
+    
   - Scores by school size
     * Original Scores by school size
     
@@ -77,7 +86,10 @@ The school board was notified that the reading and math grades for Thomas High S
     * Updated Scores by school size
     
     ![school_size_summary.png](https://github.com/ashleycvirga/School_District_Analysis/blob/f31e1817dba4e5106b08496f57ab285f6c5edddc/Resources/school_size_summary.png)
-  - Scores by school type
+
+    * Scores by school size was not significantly affected.
+
+- Scores by school type
     * Original Scores by school type
     
     ![OG_school_type.png](https://github.com/ashleycvirga/School_District_Analysis/blob/9b2a40d4bdb12b1ca88fab05418d06142d2ca01c/Resources/OG_school_type.png)
@@ -86,6 +98,8 @@ The school board was notified that the reading and math grades for Thomas High S
     
     ![school_type_summary.png](https://github.com/ashleycvirga/School_District_Analysis/blob/f31e1817dba4e5106b08496f57ab285f6c5edddc/Resources/school_type_summary.png)
 
+    * Scores by school type was entirely unaffected.
+    
 ## Summary: 
 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced
