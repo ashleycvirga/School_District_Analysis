@@ -24,7 +24,7 @@ The school board was notified that the reading and math grades for Thomas High S
 ### How is the school summary affected?
   - Original School Summary
   
-  ![OG_Summary_Stats.png](https://github.com/ashleycvirga/School_District_Analysis/blob/66098b866d201f14665b1c82aa5e1785e3c7fc0e/Resources/OG_Summary_Stats.png)
+  ![OG_Summary_Stats.png](https://github.com/ashleycvirga/School_District_Analysis/blob/e18ef213945aee4d1e9cc5973766611f65a4e1be/Resources/OG_Summary_Stats.png)
   
   - Updated School Summary
   
